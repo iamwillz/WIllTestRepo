@@ -1,6 +1,7 @@
 package com.google.gwt.sample.stockwatcher.client;
 
 import java.io.Serializable;
+import java.util.List;
 
 public class LoginInfo implements Serializable {
 
