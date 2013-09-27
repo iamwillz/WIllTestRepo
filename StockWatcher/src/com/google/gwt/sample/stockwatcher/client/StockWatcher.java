@@ -43,7 +43,11 @@ public class StockWatcher implements EntryPoint {
 	public void onModuleLoad() {
 		System.out.println("as123df");
 		System.out.println("as123df");
+<<<<<<< HEAD
 		System.out.println("321");
+=======
+		System.out.println("as123df");
+>>>>>>> refs/remotes/origin/master
 		// Check login status using login service.
 		LoginServiceAsync loginService = GWT.create(LoginService.class);
 		loginService.login(GWT.getHostPageBaseURL(),
