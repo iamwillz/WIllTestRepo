@@ -41,8 +41,8 @@ public class StockWatcher implements EntryPoint {
 	private final StockServiceAsync stockService = GWT.create(StockService.class);
 
 	public void onModuleLoad() {
-		System.out.println("321");
-		System.out.println("321");
+		System.out.println("as123df");
+		System.out.println("as123df");
 		System.out.println("321");
 		// Check login status using login service.
 		LoginServiceAsync loginService = GWT.create(LoginService.class);
